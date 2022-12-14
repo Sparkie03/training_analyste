@@ -1,7 +1,7 @@
 # Mon premier dépot GIT
 ## Choses que je dois retenir
 - git add
-- git comit
+- git commit
 - git pull
 - git push
 - git log
