@@ -1,0 +1,20 @@
+Commande Bash
+==============
+
+ls => Affiche le contenue du dossier / ls -lah 
+cd => Permet de naviguer dans les dossiers / cd .. => Précédent dossiers / ex : cd Document
+mkdir => Crée un dossier / ex : mdkir nouveau_dossier
+rm => Supprime le dossier
+clear => Clear le terminal 
+git init => Crée un dépôt Git
+touch => Crée un fichier/ ex : touche tutoriel.txt
+git status => Status actuel du dépot
+git commit => Sauvegarde des fichier sélectionner "Nom de la sauvegarde" -m"..."
+git config --global => Config 
+git log
+git reset ... --hard => ... = Nom de commit ex : c772d55d0565d5b12c69fd413e953cdda1cfac09
+git add . => 
+git pull => git push
+git branch => liste des branches (actuel en vert)
+git checkout ... => ... = switch sur la branche voulu = ...
+git merge ... => Fusion vers ... = Nom de branche
