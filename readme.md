@@ -1,4 +1,4 @@
-#Mon premier dépot GIT
+# Mon premier dépot GIT
 ## Choses que je dois retenir
 - git add
 - git comit
